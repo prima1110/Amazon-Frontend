@@ -18,7 +18,7 @@ function Home(){
                         <div className="catInfo">
                             <h4>Electronics</h4>
                         </div>
-                        <img src={imageElec} alt=""/>
+                        <img src={imageElec} alt="" />
                     </div>
                 </Link>
 

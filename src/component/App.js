@@ -19,10 +19,17 @@ function App() {
     <div className="App">
       <Switch>
         <Route path="/signin">
+        <Header />
+             <Navigation />
           <Signin />
+          <Footer /> 
         </Route>
+
         <Route path="/signup">
+        <Header />
+             <Navigation />
           <Signup />
+          <Footer /> 
         </Route>
 
         <Route path="/allProducts">

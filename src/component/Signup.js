@@ -1,7 +1,7 @@
 import React from "react";
 import { useForm } from "react-hook-form";
 import axios from "axios";
-import "./Signup.css";
+import "./Signin.css";
 
 function Signup() {
 
@@ -19,11 +19,11 @@ function Signup() {
             });
     }
     return (
-        <div>
-            <img src="amazon.jpg" className="logo"/>
-            <div>
+        <div className="login">
+            <img src="amazon.png" className="login__logo"/>
+            <div className="login__container">
                 <h1>Create account</h1>
-            </div>
+            
             <form onSubmit={handleSubmit(registerUser)}>
             <div>
                 <h4>Your name</h4>
@@ -46,6 +46,7 @@ function Signup() {
             </div>
             <p>By continuing, you agree to Amazon's Conditions of Use and Privacy Notice.</p>
             </form>
+            </div>
         </div>
     )
 }

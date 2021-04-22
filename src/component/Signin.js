@@ -22,11 +22,10 @@ function Signin() {
             });
     }
     return (
-        <div>
-            <img src="amazon.jpg" className="logo"/>
-            <div>
+        <div className='login'>
+            <img src="amazon.png" className="logo"/>
+            <div className="container">
                 <h1>Sign-In</h1>
-            </div>
             <form onSubmit={handleSubmit(loginUser)}>
             <div>
                 <h4>Email address or mobile phone number</h4>
@@ -48,8 +47,10 @@ function Signin() {
             <h4>New to Amazon?</h4>
             <div>
                 <Link to="/Signup">
-                    <input type="button" value="Create your amazon account" />
+                <button className='signup'>Create your Amazon Account</button>
                 </Link>
+            </div>
+            
             </div>
         </div>
     )
