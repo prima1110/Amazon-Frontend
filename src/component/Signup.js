@@ -20,8 +20,8 @@ function Signup() {
     }
     return (
         <div className="login">
-            <img src="amazon.png" className="login__logo"/>
-            <div className="login__container">
+            <img src="amazon.png" className="logo"/>
+            <div className="container">
                 <h1>Create account</h1>
             
             <form onSubmit={handleSubmit(registerUser)}>

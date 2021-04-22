@@ -1,5 +1,6 @@
 .footer{
-    margin-top: 450px;
+    position: fixed;
+    bottom: 0px;
     background-color:#2C3E50;
 }
 .flink1{
