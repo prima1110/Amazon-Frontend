@@ -1,0 +1,274 @@
+{
+  "Products":[
+      {
+          "id":1,
+          "image":"jbl.jpg",
+          "title":"JBL Tune 125TWS True Wireless In-Ear Bluetooth Headphones with up to 32 Hours of Combined Music Playtime - Black",
+          "category":"Electronics",
+          "cost":"$119.98",
+          "description":"Immerse yourself in your world. Whether you’re tuned into music or taking calls, you’ve got no cords to hold you back. Just wear the JBL TUNE 125TWS earbuds to start feeling the sound, as they immediately connect to your device the instant you take them out of the case. Dual Connect lets you use either earbud, or both, anytime you want. Your favorite artists sound incredible thanks to JBL Pure Bass. With up to 32 hours of battery life and a comfortable fit, you can keep the music going all day and night. Choose from the incredible color palette to find the true wireless headphones to match your personal style.",
+          "bestseller": false
+      },
+      {
+          "id":2,
+          "image":"senn.jpg",
+          "title":"Sennheiser HD 350BT Bluetooth 5.0 Wireless Headphone",
+          "category":"Electronics",
+          "cost":"$129.95",
+          "description":"The latest wireless technology including Bluetooth 5.0 and AAC, AptX codec support, with AptX Low Latency for perfect audio synchronization with videos. It features an impressive 30-hour battery life that can be rapidly recharged via USB-C. ",
+          "bestseller": true
+      },
+      {
+          "id":3,
+          "image":"echodot.jpg",
+          "title":"Echo Dot (4th Gen, 2020 release)",
+          "category":"Electronics",
+          "cost":"$49.99",
+          "description":"Smart speaker with Alexa",
+          "bestseller": true
+      },
+      {
+          "id":4,
+          "image":"lights.jpg",
+          "title":"Govee Smart Light Strip",
+          "category":"Electronics",
+          "cost":"$32.99",
+          "description":"Works with Alexa, APP Control 16.4ft RGB Light Strip Sync with Music, 16 Million Colors WiFi LED Lights for Bedroom, Home, Kitchen, TV, Party",
+          "bestseller": false
+      },
+      {
+          "id":5,
+          "image":"proj.jpg",
+          "title":"QKK Mini Projector ",
+          "category":"Electronics",
+          "cost":"$93.49",
+          "description":"6500Lumens [100 Outdoor Projector Screen Included] 1080P Supported, Compatible with HDMI, AV, USB for Home Theater, Outdoor Activities and More",
+          "bestseller": true
+      },
+      {
+          "id":6,
+          "image":"tablet.jpg",
+          "title":"VASTKING KingPad K10 10 inch Tablet",
+          "category":"Electronics",
+          "cost":"$219.99",
+          "description":"Android 10, 1920 * 1200 Resolution Octa Core Tablet, Up to 1.8Ghz, 3GB RAM, 32 GB ROM, 13MP Rear Camera, Bluetooth 5.0, 5G Wi-Fi, GPS, Full Metal Body, Ash Grey",
+          "bestseller": false
+      },
+      {
+          "id":7,
+          "image":"cera.jpg",
+          "title":"CeraVe Facial Moisturizing Lotion AM SPF 30",
+          "category":"Beauty",
+          "cost":"$14.97",
+          "description":"Daily Face Moisturizer with SPF and Hyaluronic Acid, Verified Extended Use Date, Fragrance Free, 89 Millilitres",
+          "bestseller": true
+      },
+      {
+          "id":8,
+          "image":"cerave.jpg",
+          "title":"CeraVe Vitamin C Serum With Hyaluronic Acid",
+          "category":"Beauty",
+          "cost":"$28.44",
+          "description":"Skin Brightening Anti Aging Face Serum With 10% Pure Vitamin C ",
+          "bestseller": false
+      },
+      {
+          "id":9,
+          "image":"mamaearth.jpg",
+          "title":"Mamaearth Tea Tree Face Wash",
+          "category":"Beauty",
+          "cost":"$11.84",
+          "description":"Removes impurities, Reduces excess oil and nourishes from within",
+          "bestseller": false
+      },
+      {
+          "id":10,
+          "image":"hairmask.jpg",
+          "title":"Mamaearth's Onion Hair Mask",
+          "category":"Beauty",
+          "cost":"$18.53",
+          "description":"Reduces hairfall, repairs damage and controls irritation.",
+          "bestseller": false
+      },
+      {
+          "id":11,
+          "image":"rose.jpg",
+          "title":"THAYERS Alcohol-Free Rose Petal Witch Hazel Facial Toner",
+          "category":"Beauty",
+          "cost":"$16.29",
+          "description":"Alcohol-Free gentle facial toner is formulated to cleanse, tone, moisturize the skin",
+          "bestseller": true
+      },
+      {
+          "id":12,
+          "image":"aveeno.jpg",
+          "title":"Aveeno Positively Nourishing Calming Body Lotion ",
+          "category":"Beauty",
+          "cost":"$23.99",
+          "description":"7-fluid ounce bottle of Aveeno Positively Nourishing Calming Body Lotion with Lavender & Chamomile to soothe your senses and hydrate your skin for all-day moisture",
+          "bestseller": true
+      },
+      {
+          "id":13,
+          "image":"carmex.jpg",
+          "title":"Carmex Classic Lip Balm",
+          "category":"Beauty",
+          "cost":"$7.49",
+          "description":"A convenient squeezable medicated lip balm to soothe and protect dry, chapped lips",
+          "bestseller": false
+      },
+      {
+          "id":14,
+          "image":"olay.jpg",
+          "title":"Olay Fresh Outlast Cooling White Strawberry & Mint Body Wash",
+          "category":"Beauty",
+          "cost":"$4.97",
+          "description":"formulated with Olay vitamin B3 complex, and the pampering scent of white strawberry & Mint, it hydrates skin better than regular soap",
+          "bestseller": true
+      },
+      {
+          "id":15,
+          "image":"estee.jpg",
+          "title":"Estee Lauder Women's Pleasures Eau de Parfum Spray, 3.4-Fluid Ounce",
+          "category":"Beauty",
+          "cost":"$88.99",
+          "description":"Fresh as flowers after a Spring rain, this sheer, shimmering floral blends of Lilies, White Peonies and Jasmine, all tingling with the rare essence of exotic Baie Rose",
+          "bestseller": false
+      },
+      {
+          "id":16,
+          "image":"davidoff.jpg",
+          "title":"Cool Water By Davidoff For Men Edt Spray 6.7 Oz",
+          "category":"Beauty",
+          "cost":"$60.15",
+          "description":"Original and 100% authentic Davidoff Cool Water fragrance for men",
+          "bestseller": true
+      },
+      {
+          "id":17,
+          "image":"bigmagic.jpg",
+          "title":"Big Magic",
+          "category":"Books",
+          "cost":"$16",
+          "description":"An inspiring book for living a creative life",
+          "bestseller": true
+      },
+      {
+          "id":18,
+          "image":"goodday.jpg",
+          "title":"Good Days Start With Gratitude",
+          "category":"Books",
+          "cost":"$9.15",
+          "description":"a 52 week guide to cultivate an attitude of gratitude! It is a self exploration journal ",
+          "bestseller": false
+      },
+      {
+          "id":19,
+          "image":"mindfulness.jpg",
+          "title":"Little Book of Mindfulness",
+          "category":"Books",
+          "cost":"$27.90",
+          "description":"Mindfulness is the easy way to gently let go of stress and be in the moment without chanting mantras or finding hours of special time to meditate.",
+          "bestseller": true
+      },
+      {
+          "id":20,
+          "image":"memoir.jpg",
+          "title":"Heart Berries: A Memoir",
+          "category":"Books",
+          "cost":"$25.00",
+          "description":"Heart Berries by Terese Mailhot is an astounding memoir in essays",
+          "bestseller": true
+      },
+      {
+          "id":21,
+          "image":"flora.jpg",
+          "title":"Flora: Inside the Secret World of Plants",
+          "category":"Books",
+          "cost":"$45.56",
+          "description":"In a combination of art and science, Flora celebrates plants from majestic trees to microscopic algae, explaining how they germinate, grow, and reproduce. ",
+          "bestseller": true
+      },
+      {
+          "id":22,
+          "image":"flora.jpg",
+          "title":"The Lost Art of Reading Nature's Signs",
+          "category":"Books",
+          "cost":"$21.78",
+          "description":"Use Outdoor Clues to Find Your Way, Predict the Weather, Locate Water, Track Animals—and Other Forgotten Skills",
+          "bestseller": true
+      },
+      {
+          "id":23,
+          "image":"stars.jpg",
+          "title":"What We See in the Stars",
+          "category":"Books",
+          "cost":"$22.76",
+          "description":"An Illustrated Tour of the Night Sky",
+          "bestseller": false
+      },
+      {
+          "id":24,
+          "image":"uno.jpg",
+          "title":"UNO",
+          "category":"Games",
+          "cost":"$6.93",
+          "description":"Card game",
+          "bestseller": true
+      },
+      {
+          "id":25,
+          "image":"phase.jpg",
+          "title":"Mattel Phase 10 Card Game",
+          "category":"Games",
+          "cost":"$12.49",
+          "description":"Rummy-type card game with a twist",
+          "bestseller": false
+      },
+      {
+          "id":26,
+          "image":"seq.jpg",
+          "title":"Jax Sequence",
+          "category":"Games",
+          "cost":"$29.08",
+          "description":"Original Sequence Game with Folding Board, Cards and Chips",
+          "bestseller": true
+      },
+      {
+          "id":27,
+          "image":"jenga.jpg",
+          "title":"Classic Jenga",
+          "category":"Games",
+          "cost":"$19.93",
+          "description":"The classic block-stacking, stack-crashing game of Jenga.",
+          "bestseller": true
+      },
+      {
+          "id":28,
+          "image":"chess.jpg",
+          "title":"Homemari 4 in 1 Travel Chess Set",
+          "category":"Games",
+          "cost":"$45.99",
+          "description":" Foldable Chess Checkers Draughts Playing Cards, Dice",
+          "bestseller": false
+      },
+      {
+          "id":29,
+          "image":"scrabble.jpg",
+          "title":"Scrabble Game",
+          "category":"Games",
+          "cost":"$18.67",
+          "description":"Put letters together, build words, add up your points and win",
+          "bestseller": true
+      },
+      {
+          "id":30,
+          "image":"lifegame.jpg",
+          "title":"The Game of Life Game",
+          "category":"Games",
+          "cost":"$23.98",
+          "description":"Pick a path for a life of action, unexpected surprises, and dream vacations, but spend cash wisely because the wealthiest player at the end wins the game.",
+          "bestseller": false
+      }
+  ]
+}

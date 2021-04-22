@@ -1,0 +1,20 @@
+.first-div{
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.second-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.second-div > img{
+    width: 100px;
+    height: 100px;
+}
