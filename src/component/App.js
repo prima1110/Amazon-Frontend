@@ -8,6 +8,7 @@ import Footer from "./Footer";
 import Signin from "./Signin";
 import Signup from "./Signup";
 import Product from "./Product";
+import ProductSpecification from "./ProductSpecification";
 import DisplayProducts from './DisplayProducts';
 import Bestseller from "./Bestseller";
 import Category from "./Category";
@@ -28,6 +29,13 @@ function App() {
             <Header />
              <Navigation />
             <DisplayProducts/>
+            <Footer /> 
+        </Route>
+
+        <Route path="/productDetails">
+            <Header />
+             <Navigation />
+            <ProductSpecification/>
             <Footer /> 
         </Route>
 

@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from "react";
+import {Link} from "react-router-dom";
 import Product from './Product';
 import axios from "axios";
 
@@ -17,6 +18,7 @@ const Bestseller = () => {
         <div>
             {pitems.filter(i=>i.bestseller===true).map(products=>(
                 <div>
+                    <Link to={{state:{id:products.id}, pathname:'/productDetails'}}>
                     <Product
                         id={products.id}
                         image={products.image}
@@ -24,6 +26,7 @@ const Bestseller = () => {
                         cost={products.cost}
                         category={products.category}
                     />
+                    </Link>
                 </div>
             ))}
         </div>
