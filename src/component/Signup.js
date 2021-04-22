@@ -28,18 +28,22 @@ function Signup() {
             <div>
                 <h4>Your name</h4>
                 <input type="text" {...register("yourname", { required: true})} />
+                <div>{errors.yourname && 'Enter your name'}</div>
             </div>
             <div>
                 <h4>Email</h4>
                 <input type="text" {...register("email", { required: true})} />
+                <div>{errors.email && 'Enter your valid email'}</div>
             </div>
             <div>
                 <h4>Password</h4>
                 <input type="password" placeholder="Atleast 6 characters" {...register("password", { required: true})}/>
+                <div>{errors.password && 'Enter a valid password'}</div>
             </div>
             <div>
                 <h4>Password again</h4>
                 <input type="password" {...register("passagain", { required: true})}/>
+                <div>{errors.passagain && 'Enter password again'}</div>
             </div>
             <div>
                 <input type="submit" value="Create your Amazon account"/>

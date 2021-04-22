@@ -30,10 +30,12 @@ function Signin() {
             <div>
                 <h4>Email address or mobile phone number</h4>
                 <input type="text" {...register("email", { required: true})}  />
+                <div>{errors.email && 'Enter your valid email'}</div>
             </div>
             <div>
                 <h4>Password</h4>
                 <input type="password" {...register("password", { required: true})}  />
+                <div>{errors.password && 'Enter your valid password'}</div>
             </div>
             <div>
                 <input type="submit" value="Login"/>
