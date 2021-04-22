@@ -65,7 +65,7 @@ function Navigation() {
             </Link>
             <Link className="nav_links"to="/allProducts">
             <div className="navbar_selection">
-                <p className="line1">All Products</p>
+                <p className="line1">Products</p>
                 </div>
             </Link>
             <Link className="nav_links">
