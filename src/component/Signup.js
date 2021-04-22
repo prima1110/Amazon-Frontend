@@ -16,6 +16,7 @@ function Signup() {
             .then((response) => 
             {
                 console.log(response);
+                history.push("/signin")
             });
     }
     return (
